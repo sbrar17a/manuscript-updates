@@ -1,5 +1,5 @@
 {
   "version": "0.8.7",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "Manuscript v0.8.7 \u2014 see the release notes."
+  "notes": "Manuscript v0.8.7 \u2014 16 new journal profiles (Hypertension, Stroke, Heart Rhythm, Blood, JAMA Pediatrics, Radiology, PLOS ONE, JCI, and more), JACC word-count limits re-verified against the journals' 2026 instructions, AI batch runs stoppable mid-review with immediate cancel, and fixes for catalog edits lost on save, merged references resurfacing on reject, and version-history noise."
 }
