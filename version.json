@@ -1,5 +1,5 @@
 {
-  "version": "0.8.14",
+  "version": "0.8.15",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.14 highlights:**\n\n- The query builder now works for OpenAlex, arXiv and DataCite, and carries your ideas between sources\n- MeSH headings found for you, and a search-strategy report\n- Build a PubMed query without writing the syntax\n- The macOS app reports its real version"
+  "notes": "**Manuscript v0.8.15 highlights:**\n\n- The user guide now explains the evaluation period and license activation\n- Exports only carry what you put in them\n- A failed export never damages the previous one\n- Export file names are always valid\n- Licensing and the evaluation period are more forgiving of accidents\n- Reference lists no longer alter what a record says\n- One DOI everywhere\n- BibTeX export keeps corporate authors whole\n- Typed citation text stays text"
 }
