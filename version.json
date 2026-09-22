@@ -1,5 +1,5 @@
 {
-  "version": "0.8.15",
+  "version": "0.8.16",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.15 highlights:**\n\n- The user guide now explains the evaluation period and license activation\n- Exports only carry what you put in them\n- A failed export never damages the previous one\n- Export file names are always valid\n- Licensing and the evaluation period are more forgiving of accidents\n- Reference lists no longer alter what a record says\n- One DOI everywhere\n- BibTeX export keeps corporate authors whole\n- Typed citation text stays text"
+  "notes": "**Manuscript v0.8.16 highlights:**\n\n- Reporting checklists for studies using routinely collected data\n- Clearer catalog add buttons, plus right-click menus\n- Importing figures opens where your figures are, with Box and OneDrive in the sidebar\n- Fixed a macOS crash with a table or list selected while an accessibility client was running\n- Projects on Box Drive, OneDrive or iCloud open much faster"
 }
