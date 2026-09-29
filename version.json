@@ -1,6 +1,6 @@
 {
-  "version": "0.8.18",
+  "version": "0.8.19",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.18 highlights:**\n\n- Leave the supplement out of an exported manuscript\n- Journal profiles can ask for numbered headings, and a CNS Drugs profile ships\n- Numbered headings for journal articles\n- The journal submission preset no longer turns line numbers on\n- A packaged manuscript no longer repeats the supplement\n- The navigator's designation submenu could open empty",
-  "released": "2026-09-27"
+  "notes": "**Manuscript v0.8.19 highlights:**\n\n- Query builder reads like the query it builds\n- Find a journal by name\n- Pasted text takes the manuscript's font\n- Deleting over text that's already struck out works like Word\n- Struck-out text stays in reading order\n- Deleted text in Markup view matches its paragraph\n- Inserting a citation no longer reshuffles tracked changes\n- Word count keeps up with pastes\n- A Crossref DOI search always finds the work\n- Crossref searches with several work types return everything that matches\n- Clear Formatting leaves citations and cross-references alone",
+  "released": "2026-09-28"
 }
