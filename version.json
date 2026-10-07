@@ -1,6 +1,6 @@
 {
-  "version": "0.8.21",
+  "version": "0.8.22",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.21 highlights:**\n\n- Nested lists\n- Reviewed Word files that were never exported from the project\n- Exported tracked changes no longer vanish from a section",
-  "released": "2026-10-05"
+  "notes": "**Manuscript v0.8.22 highlights:**\n\n- Headings you sized yourself keep their size in the PDF\n- A list number follows its first word as you edit\n- List numbers match their item's text\n- Outdent works on paragraphs indented by a margin\n- Colons between numbers survive copying from the PDF\n- PDF export no longer drops the end of a paragraph at a page break\n- Rejecting a deletion brings back the text's size\n- Sections no longer show their text too small or too large\n- Turning a quote off keeps the paragraph's own background\n- Tracked deletions keep their formatting in Word",
+  "released": "2026-10-07"
 }
