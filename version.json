@@ -1,6 +1,6 @@
 {
-  "version": "0.8.22",
+  "version": "0.8.23",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.22 highlights:**\n\n- Headings you sized yourself keep their size in the PDF\n- A list number follows its first word as you edit\n- List numbers match their item's text\n- Outdent works on paragraphs indented by a margin\n- Colons between numbers survive copying from the PDF\n- PDF export no longer drops the end of a paragraph at a page break\n- Rejecting a deletion brings back the text's size\n- Sections no longer show their text too small or too large\n- Turning a quote off keeps the paragraph's own background\n- Tracked deletions keep their formatting in Word",
-  "released": "2026-10-07"
+  "notes": "**Manuscript v0.8.23 highlights:**\n\n- Lists pasted from Google Docs keep their font after you reopen the project\n- Pasted tables keep their grid and cell padding\n- Pasted tables stay where they were pasted\n- Pasted text reads correctly on the dark theme\n- Rejecting a change that pasted a table works\n- Lists copied from Word paste as real lists",
+  "released": "2026-10-11"
 }
