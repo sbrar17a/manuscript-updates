@@ -1,6 +1,6 @@
 {
-  "version": "0.8.23",
+  "version": "0.8.24",
   "url": "https://jnanalabs.com/downloads",
-  "notes": "**Manuscript v0.8.23 highlights:**\n\n- Lists pasted from Google Docs keep their font after you reopen the project\n- Pasted tables keep their grid and cell padding\n- Pasted tables stay where they were pasted\n- Pasted text reads correctly on the dark theme\n- Rejecting a change that pasted a table works\n- Lists copied from Word paste as real lists",
-  "released": "2026-10-11"
+  "notes": "**Manuscript v0.8.24 highlights:**\n\n- Figure Legends keep themselves current at export\n- Where the legends print is a choice\n- \"Item\" is now \"Title\" in the Figure Catalog\n- Fill figure captions from a hand-written legends list\n- Word import reads a trailing Figure Legends section\n- Long figure and table titles show in full in the Catalog\n- Cropping a figure shows exactly what is kept\n- A click in the figure editor is a click\n- The manuscript package report fits the screen\n- A table or figure reference that had lost its chip is a chip again",
+  "released": "2026-11-11"
 }
